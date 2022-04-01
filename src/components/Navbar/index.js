@@ -16,7 +16,7 @@ import Typography from '@material-ui/core/Typography';
             <AppBar position="fixed">
                 <Toolbar className={classes.toolbar} >
                     <Typography variant="h6" noWrap className={classes.title}>
-                        POKEDEX - APP
+                        POKEDEX
                     </Typography>
                 </Toolbar>
             </AppBar>
